@@ -1,5 +1,6 @@
->### TUTORIALS & STUFF
+### TUTORIALS & STUFF
 >###### by Zeerats _(with love)_.
+![GitHub Logo](/images/yoda.png)
 
 All tutorials I've watched with code I've written to practice (from YouTube channels such as Corey Schaefer, Sentdex, etc.).
 The code in this files is altered in comparison to what the original authors have published on their websites or repositories (for better, unaltered code, you should probably visit those).
